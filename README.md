@@ -13,6 +13,8 @@ Saturn is a **GUI-based** Roblox group scanner designed to find **unowned**, **c
 
 It uses both the **v1** and **v2** Roblox Groups APIs, dynamically adjusts batch sizes based on success rates, and uses **multi-threading** for maximum scanning speed while keeping the interface smooth.
 
+![Demo](assets/demooo.gif)
+
 ---
 
 ## ⭐ **Features**
