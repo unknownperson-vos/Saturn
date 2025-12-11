@@ -6,7 +6,7 @@
 ---
 
 # 🌌 **Saturn – Roblox Unowned Group Finder**
-Saturn is a **high-performance**, **GUI-based** Roblox group scanner designed to find **unowned**, **claimable** Roblox groups with smart rate-limit handling, proxy support, real-time logs, thumbnails, and interactive group info pages.
+Saturn is a **GUI-based** Roblox group scanner designed to find **unowned**, **claimable** Roblox groups with smart rate-limit handling, proxy support, real-time logs, thumbnails, and interactive group info pages.
 
 It uses both the **v1** and **v2** Roblox Groups APIs, dynamically adjusts batch sizes based on success rates, and uses **multi-threading** for maximum scanning speed while keeping the interface smooth.
 
