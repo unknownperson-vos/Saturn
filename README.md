@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🌐 **Proxy Setup**
+## 🌐 **Proxy Setup (Optional)**
 
 Saturn loads proxies from:
 
