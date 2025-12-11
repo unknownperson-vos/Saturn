@@ -1,0 +1,3 @@
+ip:port
+ip:port:username:password
+replace this with your proxies (optional)
